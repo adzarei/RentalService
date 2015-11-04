@@ -1,7 +1,5 @@
 package com.company;
 
-
-
 public class Reservation {
 	private String pickupDate;
 	private String returnDate;
